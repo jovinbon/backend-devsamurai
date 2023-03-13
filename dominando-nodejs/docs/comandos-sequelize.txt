@@ -1,0 +1,4 @@
+yarn sequelize migration:create --name=create-customers
+
+rodar a sequelize no db:
+yarn sequelize db:migrate
